@@ -27,7 +27,7 @@ class App extends Component {
       <div className="App container-fluid">
         <div>
           <br />
-          <h1>Markdown Previewer</h1>
+          <h1>Markdown Previewer Hey</h1>
           <Form>
             <h3>Markdown Input</h3>
             <Form.Group controlId="controlTextArea">
