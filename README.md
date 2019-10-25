@@ -1,3 +1,5 @@
+This is my markdown previewer; a project created for freeCodeCamp's Front-End Libraries Certification.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
